@@ -1,0 +1,2 @@
+1 - Failed to init SDL
+2 - Failed to load inital assets
